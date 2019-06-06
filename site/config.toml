@@ -1,3 +1,115 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "Homepage"
+baseURL = "/"
+theme = "dot"
+
+
+[params]
+primaryColor = "#f0bb0a"
+secondaryColor = "#f9f9f9"
+textColor = "#636363"
+textColorDark = "#755b03"
+whiteColor = "#ffffff"
+
+[Languages]
+
+  # English Language
+  [Languages.en]
+  languageName = "En"
+  weight = 1
+  languageCode = "en-us"
+  title = "FAQs for NoteBlockChain"
+  dateFormat = "2 January 2006"
+  home = "Home"
+  logo = "NoteBC FAQ"
+  copyright = "NoteBC documentation is Copyrighted 2019 Noteblockchain LLC"
+
+    # navigation
+    [Languages.en.menu]
+    
+      [[Languages.en.menu.main]]
+        weight = 2
+        name = "Faq"
+        url = "/faq"
+        
+      [[Languages.en.menu.main]]
+        weight = 2
+        name = "contact"
+        url = "/contact"
+        
+      [[Languages.en.menu.main]]
+        weight = 2
+        name = "categories"
+        url = "/categories"
+        hasChildren = true
+
+          [[Languages.en.menu.main]]
+          parent = "categories"
+          name = "Wallets"
+          URL = "/wallets"
+          weight = 1
+
+          [[Languages.en.menu.main]]
+          parent = "categories"
+          name = "Mining"
+          URL = "/mining"
+          weight = 2
+
+          [[Languages.en.menu.main]]
+          parent = "categories"
+          name = "Exchanges & Trading"
+          URL = "/exchanges"
+          weight = 3
+
+          [[Languages.en.menu.main]]
+          parent = "categories"
+          name = "Features"
+          URL = "/features"
+          weight = 4
+
+          [[Languages.en.menu.main]]
+          parent = "categories"
+          name = "Ecosystem"
+          URL = "/ecosystem"
+          weight = 5
+
+
+    # banner
+    [Languages.en.params.banner]
+      title = "Knowledge Base & FAQs for NoteBlockchain"
+      description = "Find advice and answers from our support team fast or get in touch"
+      image = "images/banner.jpg"
+      placeholder = "Have a question? Just ask here or enter terms"
+
+    # Topics
+    [Languages.en.params.topics]
+      title = "Find your answer by subject"
+    
+    # call to action
+    [Languages.en.params.cta]
+      enable = true
+      title = "Didn't find an answer to your question?"
+      description = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+      btnText = "contact us"
+      btnURL = "/contact"
+
+    # contact
+    [Languages.en.params.contact]
+      title = "Got Any Questions"
+      content = "Submit the form and confirm your email address at <a class='text-primary' href='https://formspree.io/'>Formspree</a> Then add the following lines to contact page YAML Front Matter."
+
+    # footer social icon
+    [[Languages.en.socialIcon]]
+      icon = "ti-facebook"
+      URL = "/#"
+
+    [[Languages.en.socialIcon]]
+      icon = "ti-twitter-alt"
+      URL = "https://twitter.com/BlockChainNote"
+      
+    [[Languages.en.socialIcon]]
+      icon = "ti-vimeo-alt"
+      URL = "/#"
+      
+    [[Languages.en.socialIcon]]
+      icon = "ti-instagram"
+      URL = "/#"
+
