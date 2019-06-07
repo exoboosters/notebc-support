@@ -87,29 +87,32 @@ whiteColor = "#ffffff"
     [Languages.en.params.cta]
       enable = true
       title = "Didn't find an answer to your question?"
-      description = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+      description = "Our knowledgebase is always being expanded. You can also get answers through our contact form"
       btnText = "contact us"
       btnURL = "/contact"
 
     # contact
     [Languages.en.params.contact]
       title = "Got Any Questions"
-      content = "Submit the form and confirm your email address at <a class='text-primary' href='https://formspree.io/'>Formspree</a> Then add the following lines to contact page YAML Front Matter."
+      content = "Our support team is on standby to answer questions. Please fill this form with your questions or the issue you are facing. Our team will get back to you. </br><em>Please whitelist the address <strong>support@notebc.space</strong> to avoid our replies going into spam</em>"
 
     # footer social icon
     [[Languages.en.socialIcon]]
-      icon = "ti-facebook"
-      URL = "/#"
+      icon = "ti-world"
+      URL = "https://notebc.com"
 
     [[Languages.en.socialIcon]]
       icon = "ti-twitter-alt"
       URL = "https://twitter.com/BlockChainNote"
       
     [[Languages.en.socialIcon]]
-      icon = "ti-vimeo-alt"
-      URL = "/#"
+      icon = "ti-github"
+      URL = "https://github.com/note-llc"
       
     [[Languages.en.socialIcon]]
-      icon = "ti-instagram"
-      URL = "/#"
-
+      icon = "ti-wallet"
+      URL = "https://notebc.io"
+      
+    [[Languages.en.socialIcon]]
+      icon = "ti-link"
+      URL = "http://explorer.notebc.io"
