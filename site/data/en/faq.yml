@@ -1,32 +1,32 @@
 faqItem:
   - ID : collapseOne
     title : What is NoteBlockChain?
-    content : NoteBlockchain is a fun and easy way to get started with cryptocurrency.
+    content : NoteBlockchain is a fun and easy way to get started with cryptocurrency. It is aimed at everyone from complete beginners to advanced enthusiasts. Your coins can be stored in an easy to access (and recover) mobile wallet without having to remember complex private keys or mnemonic phrases. Compared to other cryptocurrency projects, our key differentiators are 
 
   - ID : collapseTwo
     title : Where do I store my Notes (NTBC)?
-    content : NoteBlockchain is for 
+    content : The easiest way to store Notes is through the Mobile wallet apps available for both iOS and Android devices. Download links are available at https://www.notebc.com/walletsandapps. In order to make it easy to store and recover your Notes, your wallet account is tied to a phone number (which is used by us to send a verification code). The private keys for your wallet is stored securely on our servers. You can reinstall the app, move between phones (and get the upgrade you finally wanted) without losing your balance.
 
   - ID : collapseThree
-    title : I need something unique. Can you make it?
-    content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+    title : How do I give someone Notes?
+    content : It is easy to give Notes aka NTBC. Our favorite way is to use the mobile app where you can print Notes and share the image with family and friends. It is not necessary for the receiver to have a wallet or a NoteBC address. If they already have the mobile app, you can scan their wallet address from your mobile phone. You can also send NTBC through the web wallet or the desktop wallets.
 
   - ID : collapseFour
-    title : Is there any documentation and support?
-    content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+    title : Is the wallet free to download?
+    content : Yes, the mobile apps or desktop applications are free to download and use. 
 
   - ID : collapseFive
-    title : Any refunds?
-    content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+    title : This sounds interesting, how do I get Notes?
+    content : Notes can be mined.
 
   - ID : collapseSix
-    title : What is a product key?
-    content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+    title : I prefer to have complete control of my wallet. Is it possible?
+    content : By using our desktop wallets, you are in complete control of the wallet. 
 
   - ID : collapseSeven
-    title : Where do I download the file to?
-    content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+    title : I love techie stuff, can I build my own wallet?
+    content : For sure. Our code is Open Source. Our Github repository contains all the details to build your own wallet.
 
   - ID : collapseEight
-    title : What happens after I download?
-    content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+    title : I want to collaborate, how do I get in touch?
+    content : Contact us on Twitter on our Discord server
