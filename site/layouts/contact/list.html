@@ -7,24 +7,25 @@
       <div class="col-12">
        {{ with .Site.Params.contact.title }} <h2 class="section-title text-primary">{{ . }}</h2> {{ end }}
        {{ with .Site.Params.contact.content }} <p>{{ . | safeHTML }}</p> {{ end }}
-        <form action="#">
+        <form action="https://formsubmit.co/support@notebc.ngdesk.com" method="post">
           <input type="text" id="name" name="name" placeholder="Name" class="form-control mb-4 shadow rounded-0">
           <input type="email" id="mail" name="mail" placeholder="Email" class="form-control mb-4 shadow rounded-0">
-          <input type="text" id="subject" name="subject" placeholder="subject" class="form-control mb-4 shadow rounded-0">
-          <textarea name="message" id="message" placeholder="Message" class="form-control mb-4 shadow rounded-0"></textarea>
+          <input type="text" id="subject" name="subject" placeholder="Subject" class="form-control mb-4 shadow rounded-0">
+          <textarea name="message" id="message" placeholder="Issue/Query" class="form-control mb-4 shadow rounded-0"></textarea>
           <button type="submit" value="send" class="btn btn-primary">Send</button>
         </form>
       </div>
     </div>
 	<div class="row">
+		
 		<div class="col-4">
-			<a href="https://support.notebc.com">Open a Support Ticket</a>
+			<a href="https://twitter.com/BlockChainNote" class="btn btn-primary">Ask us on Twitter</a>
 		</div>
 		<div class="col-4">
-			<a href="https://twitter.com/BlockChainNote">Ask us on Twitter</a>
-		</div>
-		<div class="col-4">
-			<a href="https://discordapp.com">Join us on Discord</a>
+			<a href="https://discordapp.com" class="btn btn-primary">Join us on Discord</a>
+    </div>
+    <div class="col-4">
+			<a href="#" class="btn btn-primary">Send a message on Telegram</a>
 		</div>
 	</div>
   </div>
