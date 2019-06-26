@@ -82,6 +82,21 @@ h6,
   box-shadow: none;
 }
 
+.btn-twitter {
+  background: #1da1f2;
+  color: #ffffff;
+}
+
+.btn-discord {
+  background: #7289da;
+  color: #ffffff;
+}
+
+.btn-telegram {
+  background: #0088cc;
+  color: #ffffff;
+}
+
 .btn-primary {
   background: var(--primary-color);
   color: var(--white-color);

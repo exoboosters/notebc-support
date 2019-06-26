@@ -1,7 +1,7 @@
 ---
 title: "Features"
-date: 2018-12-28T11:02:05+06:00
+date: 2019-06-25T11:02:05+05:00
 icon: "ti-package"
-description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet"
+description: "What makes NoteBC different? Our feature list"
 type : "pages"
 ---
