@@ -6,15 +6,7 @@
     <div class="row">
       <div class="col-12">
        {{ with .Site.Params.contact.title }} <h2 class="section-title text-primary">{{ . }}</h2> {{ end }}
-       {{ with .Site.Params.contact.content }} <p>{{ . | safeHTML }}</p> {{ end }}
-        <form action="https://formsubmit.co/7ce070339376b7c29248ca31a6e3ff21" method="post">
-          <input type="text" id="name" name="name" placeholder="Name" class="form-control mb-4 shadow rounded-0">
-          <input type="email" id="mail" name="mail" placeholder="Email" class="form-control mb-4 shadow rounded-0">
-          <input type="text" id="subject" name="subject" placeholder="Subject" class="form-control mb-4 shadow rounded-0">
-          <textarea name="message" id="message" placeholder="Issue/Query" class="form-control mb-4 shadow rounded-0"></textarea>
-          <input type="hidden" name="_next" value="https://support.notebc.space/contact/thankyou/">
-          <button type="submit" value="send" class="btn btn-primary">Send</button>
-        </form>
+       Thank you for submitting your query. We will respond back to you as soon as we can.
       </div>
     </div>
   </div> <!-- Ends Container -->
