@@ -17,7 +17,7 @@ faqItem:
 
   - ID : collapseFive
     title : This sounds interesting, how do I get Notes?
-    content : Notes can be mined.
+    content : Notes can be mined, see our FAQ section on mining to learn about MoonLanders and L3s. We are also listed on some top class exchanges, buy NTBC for BTC/LTC/DOGE or ETH. We also have giveaways, airdrops - Twitter, Discord and Telegram are our popular outlets for these. 
 
   - ID : collapseSix
     title : I prefer to have complete control of my wallet. Is it possible?
@@ -29,4 +29,4 @@ faqItem:
 
   - ID : collapseEight
     title : I want to collaborate, how do I get in touch?
-    content : Contact us on Twitter on our Discord server
+    content : That's great! We are always looking to enter into partnerships with interested folks. Contact us on Twitter (@BlockChainNote) or on our Discord server. If you wish to add to the NoteBlockChain code, fork our code and submit a pull request.
