@@ -1,33 +1,3 @@
-@font-face {
-    font-family: 'orkney';
-    src: url('../fonts/orkney-regular-webfont.eot');
-    src: url('../fonts/orkney-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/orkney-regular-webfont.woff') format('woff'),
-         url('../fonts/orkney-regular-webfont.ttf') format('truetype'),
-    font-weight: 400;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'orkney';
-    src: url('../fonts/orkney-medium-webfont.eot');
-    src: url('../fonts/orkney-medium-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/orkney-medium-webfont.woff') format('woff'),
-         url('../fonts/orkney-medium-webfont.ttf') format('truetype'),
-    font-weight: 600;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'orkney';
-    src: url('../fonts/orkney-bold-webfont.eot');
-    src: url('../fonts/orkney-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/orkney-bold-webfont.woff') format('woff'),
-         url('../fonts/orkney-bold-webfont.ttf') format('truetype'),
-    font-weight: 700;
-    font-style: normal;
-}
-
 body {
   line-height: 1.8;
   font-family: "orkney", sans-serif;
