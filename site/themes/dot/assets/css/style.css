@@ -1,8 +1,36 @@
+@font-face {
+    font-family: 'orkney';
+    src: url('../fonts/orkney-regular-webfont.eot');
+    src: url('../fonts/orkney-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/orkney-regular-webfont.woff') format('woff'),
+         url('../fonts/orkney-regular-webfont.ttf') format('truetype'),
+    font-weight: 400;
+    font-style: normal;
+}
 
+@font-face {
+    font-family: 'orkney';
+    src: url('../fonts/orkney-medium-webfont.eot');
+    src: url('../fonts/orkney-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/orkney-medium-webfont.woff') format('woff'),
+         url('../fonts/orkney-medium-webfont.ttf') format('truetype'),
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'orkney';
+    src: url('../fonts/orkney-bold-webfont.eot');
+    src: url('../fonts/orkney-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/orkney-bold-webfont.woff') format('woff'),
+         url('../fonts/orkney-bold-webfont.ttf') format('truetype'),
+    font-weight: 700;
+    font-style: normal;
+}
 
 body {
   line-height: 1.8;
-  font-family: "Montserrat", sans-serif;
+  font-family: "orkney", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 18px;
   color: var(--text-color);
@@ -14,7 +42,7 @@ p,
   color: var(--text-color);
   font-size: 16px;
   line-height: 1.8;
-  font-family: "Montserrat", sans-serif;
+  font-family: "orkney", sans-serif;
 }
 
 h1,
@@ -24,7 +52,7 @@ h4,
 h5,
 h6 {
   color: var(--text-color-dark);
-  font-family: "Montserrat", sans-serif;
+  font-family: "orkney", sans-serif;
   font-weight: 700;
   line-height: 1.2;
 }
@@ -62,7 +90,7 @@ h6,
 /* Button style */
 .btn {
   font-size: 14px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "orkney", sans-serif;
   text-transform: uppercase;
   padding: 16px 44px;
   border-radius: 0px;
@@ -95,6 +123,21 @@ h6,
 .btn-telegram {
   background: #0088cc;
   color: #ffffff;
+}
+
+.btn-twitter:hover {
+  background: #1da1f2;
+  color: #000000;
+}
+
+.btn-discord:hover {
+  background: #7289da;
+  color: #000000;
+}
+
+.btn-telegram:hover {
+  background: #0088cc;
+  color: #000000;
 }
 
 .btn-primary {
@@ -385,7 +428,7 @@ pre {
   position: relative;
   color: var(--text-color-dark);
   transition: .2s ease;
-  font-family: "Montserrat", sans-serif;
+  font-family: "orkney", sans-serif;
 }
 
 @media (max-width: 991px) {

@@ -1,11 +1,11 @@
 faqItem:
   - ID : collapseOne
     title : What is NoteBlockChain?
-    content : NoteBlockchain is a fun and easy way to get started with cryptocurrency. It is aimed at everyone from complete beginners to advanced enthusiasts. Your coins can be stored in an easy to access (and recover) mobile wallet without having to remember complex private keys or mnemonic phrases. Compared to other cryptocurrency projects, our key differentiators are 
+    content : NoteBlockchain is a fun and easy way to get started with cryptocurrency. It is aimed at everyone from complete beginners to advanced enthusiasts. Your coins can be stored in an easy to access (and recover) mobile wallet without having to remember complex private keys or mnemonic phrases. Compared to other cryptocurrency projects, NoteBC is organized like a regular software development project and was launched with a MVP (Minimum Viable Product) comprising of working mobile and web wallets and a coin explorer. Focus on User Experience is key and we will never lose sight of that.
 
   - ID : collapseTwo
     title : Where do I store my Notes (NTBC)?
-    content : The easiest way to store Notes is through the Mobile wallet apps available for both iOS and Android devices. Download links are available at https://www.notebc.com/walletsandapps. In order to make it easy to store and recover your Notes, your wallet account is tied to a phone number (which is used by us to send a verification code). The private keys for your wallet is stored securely on our servers. You can reinstall the app, move between phones (and get the upgrade you finally wanted) without losing your balance.
+    content : The easiest way to store Notes is through the Mobile wallet apps available for both iOS and Android devices. Download links are available at [Notebc.com > Wallets](https://www.notebc.com/walletsandapps). In order to make it easy to store and recover your Notes, your wallet account is tied to a phone number (which is used by us to send a verification code). The private keys for your wallet is stored securely on our servers. You can reinstall the app, move between phones (and get the upgrade you finally wanted) without losing your balance.
 
   - ID : collapseThree
     title : How do I give someone Notes?
@@ -13,7 +13,7 @@ faqItem:
 
   - ID : collapseFour
     title : Is the wallet free to download?
-    content : Yes, the mobile apps or desktop applications are free to download and use. 
+    content : Yes, the mobile apps or desktop applications are free to download and use. While the mobile wallet requires registration, desktop wallets can be used as is.
 
   - ID : collapseFive
     title : This sounds interesting, how do I get Notes?
@@ -21,7 +21,7 @@ faqItem:
 
   - ID : collapseSix
     title : I prefer to have complete control of my wallet. Is it possible?
-    content : By using our desktop wallets, you are in complete control of the wallet. 
+    content : By using our desktop wallets, you are in complete control of the wallet. To download the desktop wallet (Windows/Linux/Mac), visit our [Github Release page](https://github.com/note-llc/noteblockchain/releases) to download
 
   - ID : collapseSeven
     title : I love techie stuff, can I build my own wallet?
